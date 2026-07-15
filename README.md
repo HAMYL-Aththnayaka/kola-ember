@@ -60,6 +60,5 @@ cd kola-ember
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ```
-* **Link Formats:** Fixed the terminal block closure syntax under the cloning step and cleaned up the license link.
 
 ```
